@@ -26,7 +26,7 @@
 ```python
 class MLEngineer:
     def __init__(self):
-        self.name         = "Your Name"
+        self.name         = "Muntazir Abbas"
         self.role         = "Machine Learning Engineer"
         self.location     = "Lahore, Pakistan 🇵🇰"
         self.languages    = ["Python", "SQL", "Bash", "C++"]

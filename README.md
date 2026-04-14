@@ -28,7 +28,7 @@ class MLEngineer:
     def __init__(self):
         self.name         = "Muntazir Abbas"
         self.role         = "Machine Learning Engineer"
-        self.location     = "Lahore, Pakistan 🇵🇰"
+        self.location     = "Gilgit, Pakistan 🇵🇰"
         self.languages    = ["Python", "SQL", "Bash", "C++"]
         self.focus        = ["LLMs", "Computer Vision", "MLOps", "NLP"]
         self.currently    = "Building production-grade ML systems"
